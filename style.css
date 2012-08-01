@@ -1,5 +1,6 @@
 .new {
   background-color: yellow;
+  animation-duration: 2s;
 }
 
 .deleted {
